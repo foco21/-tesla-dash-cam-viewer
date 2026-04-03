@@ -1,6 +1,6 @@
-﻿# Tesla Dashcam Viewer (Tauri)
+﻿# Tesla Dashcam Viewer 
 
-Offline Tesla dashcam viewer with:
+This is an iffline Tesla dashcam viewer with:
 - Event scanning from TeslaCam folders
 - Synced multi-camera playback (main + side previews)
 - Native metadata extraction (GPS/creation time via `ffprobe`)
