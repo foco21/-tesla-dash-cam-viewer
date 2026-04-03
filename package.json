@@ -1,0 +1,14 @@
+{
+  "name": "tesla-dashcam-viewer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve . -l 1420",
+    "tauri:dev": "tauri dev",
+    "tauri:build": "tauri build"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.0.0",
+    "serve": "^14.2.4"
+  }
+}
